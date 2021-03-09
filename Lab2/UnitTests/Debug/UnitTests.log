@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+     Создается библиотека G:\Lab2\Debug\UnitTests.lib и объект G:\Lab2\Debug\UnitTests.exp
+  UnitTests.vcxproj -> G:\Lab2\Debug\UnitTests.dll
